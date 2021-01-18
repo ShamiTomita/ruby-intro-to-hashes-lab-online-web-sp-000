@@ -3,7 +3,7 @@ new_hash = {}
 end
 
 def actor
-return :actor=>"Dwayne The Rock Johnson"
+return actor= {:name=>"Dwayne The Rock Johnson"}
 end
 
 def monopoly

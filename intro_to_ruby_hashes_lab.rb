@@ -3,7 +3,7 @@ new_hash = {}
 end
 
 def actor
-return :actor
+return :actor=>"D"
 end
 
 def monopoly
